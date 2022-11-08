@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+body {
+    background:linear-gradient(to left , rgb(253, 253, 253),rgb(26, 20, 41)) ;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#logo {
+    
+    border: 0px;
+    height: 60px;
+    width: 100px;
+}
+#title  {
+    color: white;
+    text-align: center;
+    
+}
+
+table {
+    margin: 20px;
+
+}
+th{
+    text-transform: uppercase;
+}
+tr {
+    color: white;
+    text-align: center;
+    
+}
+#stars {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+  }
+
